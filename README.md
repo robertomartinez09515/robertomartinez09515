@@ -2,7 +2,7 @@
 <img src="http://developerguru.in/images/courses/mern_stack.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I am a full-stack web developer with over 8 years of experience that specializes in building components and applications using React, Angular, MongoDB, Express, and Node.js.</div>
+### <div align="center">I am a full-stack web developer with over 12 years of experience that specializes in building components and applications using React, Angular, MongoDB, Express, and Node.js.</div>
 
 - I’m currently looking for MERN, and MEAN stack projects now.
 
